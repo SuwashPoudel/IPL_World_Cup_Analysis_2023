@@ -1,0 +1,1 @@
+Harnessing the capabilities of Power BI, this project provides a dynamic and interactive analysis of the 2023 IPL cricket season, enabling stakeholders to explore trends, player performance, and match outcomes with ease and precision.
